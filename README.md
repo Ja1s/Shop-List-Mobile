@@ -1,50 +1,26 @@
-# Welcome to your Expo app 👋
+# Shop List Mobile 🛒
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Bem-vindo ao repositório do **Shop List Mobile**! Este projeto é uma aplicação web que ajuda os usuários a criar e gerenciar listas de compras de maneira fácil e eficiente.
 
-## Get started
+## 📜 Sobre o Projeto
 
-1. Install dependencies
+O **Shop List Mobile** permite aos usuários:
 
-   ```bash
-   npm install
-   ```
+- Adicionar itens às suas listas de compras.
+- Deletar itens já comprados.
 
-2. Start the app
+## 🚀 Funcionalidades
 
-   ```bash
-    npx expo start
-   ```
+- **Adicionar Itens**: Adicione itens às suas listas de compras com nome, quantidade e categoria.
+- **Deletar Item Comprado**: Delete itens já comprados para acompanhar seu progresso.
 
-In the output, you'll find options to open the app in a
+## 🛠️ Tecnologias Utilizadas
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+[![REACTNATIVE](https://img.shields.io/badge/React_Native-3c4048?style=for-the-badge&logo=react&logoColor=61DAFB)]()
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 📷 Capturas de Tela
 
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+### Lista de Compras
+![Lista de Compras](https://portfolio.descubraserragaucha.com/assets/ShopList.png)
+---
